@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe553287165de843953adbf498d20e1, type: 3}
+  m_Name: JeopardyData
+  m_EditorClassIdentifier: 
+  baseData:
+    numQuestionsPerCategory: 5
+    scorePerIncrement: 200
+    categoryList:
+    - categoryName: Category 1
+      questionList:
+      - question: Question 1
+        answer: Answer 1
+        score: 0
+      - question: Question 2
+        answer: Answer 2
+        score: 0
+      - question: Question 3
+        answer: Answer 3
+        score: 0
+      - question: Question 4
+        answer: Answer 4
+        score: 0
+      - question: Question 5
+        answer: Answer 5
+        score: 0
+    - categoryName: Category 2
+      questionList:
+      - question: Question 1
+        answer: Answer 1
+        score: 0
+      - question: Question 2
+        answer: Answer 2
+        score: 0
+      - question: Question 3
+        answer: Answer 3
+        score: 0
+      - question: Question 4
+        answer: Answer 4
+        score: 0
+      - question: Question 5
+        answer: Answer 5
+        score: 0
+    - categoryName: Category 3
+      questionList:
+      - question: Question 1
+        answer: Answer 1
+        score: 0
+      - question: Question 2
+        answer: Answer 2
+        score: 0
+      - question: Question 3
+        answer: Answer 3
+        score: 0
+      - question: Question 4
+        answer: Answer 4
+        score: 0
+      - question: Question 5
+        answer: Answer 5
+        score: 0
